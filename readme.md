@@ -67,8 +67,6 @@ Cheatsheet he listed:
 
 Examples of when to use various Redux Saga keywords and techniques:
 
-
-
 ### "takeEvery"
 "takeEvery" watches for every time a specific redux action was dispatch (think of state - it just watches a redux action and sees if its called, then it triggers) (i.e. a code-handled api fetch)
 
